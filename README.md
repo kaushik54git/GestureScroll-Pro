@@ -24,7 +24,7 @@ GestureScroll Pro is a Python program that allows you to control scrolling on yo
 pip install opencv-python mediapipe
 ```
 
-3. Clone or download the GestureScroll Pro repository from [GitHub](https://github.com/yourusername/GestureScroll-Pro).
+3. Clone or download the GestureScroll Pro repository from [GitHub](https://github.com/kaushik54git/GestureScroll-Pro).
 
 ## Usage
 
